@@ -19,3 +19,4 @@ Alternatives
 ------------
 
 If you want something similar that does all this and much more, I recommend looking into Pivotal's [sprout-wrap](https://github.com/pivotal-sprout/sprout-wrap).
+If you want something even more simple, you should take a look at [Get Mac Apps](http://getmacapps.com).
